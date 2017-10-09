@@ -24,6 +24,22 @@ h4 {
   background-size: cover;
   color: white;
 }
-.top a {
+a {
   color: white;
+}
+p {
+  font-size: 14px;
+}
+.divide {
+  color: white;
+  background-image: url("../photos/flatiron.png");
+  background-repeat: no-repeat;
+}
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+.copyright {
+  font-size: 11px;
 }
