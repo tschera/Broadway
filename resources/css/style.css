@@ -15,5 +15,15 @@ h3 {
   font-weight: bold;
 }
 h4 {
-  font-size: 18px;
+  font-size: 18px
+  font-weight: normal;
+}
+#header {
+  background-image: url("../photos/flatiron.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.top a {
+  color: white;
 }
